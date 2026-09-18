@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fati-la-pueblerina-web.vercel.app/sitemap.xml
